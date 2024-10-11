@@ -1,7 +1,0 @@
-package com.javaweb.utills;
-
-public class CheckStringUtll {
-	private static boolean CheckString(String str) {
-		return (str == null && str.equals("") == true ) ? false : true;
-	}
-}

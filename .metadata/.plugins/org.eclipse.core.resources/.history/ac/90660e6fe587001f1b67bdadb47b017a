@@ -1,6 +1,0 @@
-package com.javaweb.model;
-
-public class BuildingModel {
-	private String name;
-	
-}
